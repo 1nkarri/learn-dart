@@ -30,3 +30,6 @@ void main() {
   print(height);
 }
 ```
+#### 2.2.3・Strings
+Permite almacenar texto, todo tipo de contenido alfanumérico.
+
