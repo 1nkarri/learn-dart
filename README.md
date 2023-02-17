@@ -32,4 +32,6 @@ void main() {
 ```
 #### 2.2.3・Strings
 Permite almacenar texto, todo tipo de contenido alfanumérico.
+#### 2.2.4・List
+Permite almacenar muchos valores de un mismo tipo a la vez en una misma variable.
 
