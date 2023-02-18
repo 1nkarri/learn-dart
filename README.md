@@ -34,4 +34,6 @@ void main() {
 Permite almacenar texto, todo tipo de contenido alfanumérico.
 #### 2.2.4・List
 Permite almacenar muchos valores de un mismo tipo a la vez en una misma variable.
+#### 2.2.5 var
+Es un dato definido por el valor que le asignemos, es decir le damos a la computadora el reconocimiento del valor del dato de la variable.
 
