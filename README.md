@@ -40,3 +40,10 @@ Es un dato definido por el valor que le asignemos, es decir le damos a la comput
 Son datos de variables inmutables y la diferencia es que en `const` debe ser conocido su valor en tiempo de compilacion y `final` no.
 #### 2.2.7・dynamic
 Son datos de variables que son mutables tanto el el tipo de dato como en el valor de la variable.
+#### Diferencias entre var, final/const y dynamic
+| Puede cambiar | Data Type | Valor |
+| ------------- | --------- | ---- |
+| final/const   | ❌        | ❌   |
+| var           | ❌        | ✅   |
+| dynamic       | ✅        | ✅   |
+
