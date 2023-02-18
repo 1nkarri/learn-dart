@@ -38,3 +38,5 @@ Permite almacenar muchos valores de un mismo tipo a la vez en una misma variable
 Es un dato definido por el valor que le asignemos, es decir le damos a la computadora el reconocimiento del valor del dato de la variable.
 #### 2.2.6・final vs const
 Son datos de variables inmutables y la diferencia es que en `const` debe ser conocido su valor en tiempo de compilacion y `final` no.
+#### 2.2.7・dynamic
+Son datos de variables que son mutables tanto el el tipo de dato como en el valor de la variable.
