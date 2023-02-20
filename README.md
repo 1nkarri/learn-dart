@@ -58,3 +58,7 @@ Son datos de variables que son mutables tanto el el tipo de dato como en el valo
 - toUpperCase: Cambiar todo por mayúsculas.
 - toLowerCase: Cambiar todo por minúsculas.
 - replaceAll: Reemplaza palabras enteras.
+#### Conversión de tipos
+- String to number: ``int.parse()`` or ``double.parse()``
+- number to String: ``toString()``
+- Si sale un error: ``Script error``
