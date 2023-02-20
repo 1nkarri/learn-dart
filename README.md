@@ -47,3 +47,14 @@ Son datos de variables que son mutables tanto el el tipo de dato como en el valo
 | var           | ❌        | ✅   |
 | dynamic       | ✅        | ✅   |
 
+### Strings
+#### Commentarios
+- // para las líneas de código.
+- /**/ para bloques de código.
+#### Concatenación e interpolación
+- Concatenación: Es la forma de unir dos Strings para formar uno más grande.
+- Interpolación: Es una concatenación pero utilizando las variables dentro de un mismo String.
+#### Functions
+- toUpperCase: Cambiar todo por mayúsculas.
+- toLowerCase: Cambiar todo por minúsculas.
+- replaceAll: Reemplaza palabras enteras.
