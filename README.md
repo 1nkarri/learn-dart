@@ -62,3 +62,46 @@ Son datos de variables que son mutables tanto el el tipo de dato como en el valo
 - String to number: ``int.parse()`` or ``double.parse()``
 - number to String: ``toString()``
 - Si sale un error: ``Script error``
+
+### Flujo de datos
+#### 1. Operaciones
+##### 1.1.Operaciones Aritmeticas
+Son expresiones matematicas que requieren 2 numeros y retornan un valor numerico.
+
+| Name | Symbol |
+| --- | --- |
+| Suma | + |
+| Resta | - |
+| Multipliacion | * |
+| Division | / |
+| Division entera | ~/ |
+| Modulo | % |
+
+##### 1.2.Operaciones de Asignacion
+Son operaciones aritmeticas abreviadas.
+
+| Name       | Simbolo |
+|------------| ------- |
+| x = x + y  | x += y |
+| x = x - y  | x -= y |
+| x = x * y  | x *= y |
+| x = x / y  | x /= y |
+| x = x ~/ y | x ~/= y |
+| x = x % y  | x %= y |
+
+##### 1.3. Operaciones Relacionales
+Son expresiones de comparacion que requieren 2 numeros que retorna un resultado booleano.
+
+| Nombre | Symbol |
+| --- | --- |
+| Igual a | == |
+| Diferente a | != |
+| Mayor igual | >= |
+| Mayor | > |
+| Menor | < |
+| Menor igual | <= |
+
+##### 1.4.Operaciones Logicas
+Son expresiones logicas que requieren 1 o 2 booleanos y retorna un resultado booleano.
+Ejemplo: ||, &&, ! y ?
+
