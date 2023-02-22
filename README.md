@@ -105,3 +105,20 @@ Son expresiones de comparacion que requieren 2 numeros que retorna un resultado 
 Son expresiones logicas que requieren 1 o 2 booleanos y retorna un resultado booleano.
 Ejemplo: ||, &&, ! y ?
 
+#### 2.Conditionals
+##### 2.1.If
+Es el primer condicionante logico, es el mas basico, se cumple cuando la empresion es verdadera.
+```dart
+if(expresion) {
+  //code of if
+}
+```
+##### Else
+Es el complemento de `if` y se cumple cuando la expresion dentro del `if` es falso.
+```dart
+if(expresion) {
+  //code of if
+} else {
+  //code of else
+}
+```
